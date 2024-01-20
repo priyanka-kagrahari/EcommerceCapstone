@@ -1,2 +1,1 @@
-# EcommerceCapstone
-Ecommerce Capstone Project
+
